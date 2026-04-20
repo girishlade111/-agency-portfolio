@@ -73,18 +73,20 @@ A modern, high-performance Next.js agency portfolio showcasing creative services
 ## 📊 Project Statistics
 
 ```
-📦 Total Files          : 20
-🧩 React Components    : 13 section components + 1 utility wrapper
-🔧 Utility Modules     : 2 (cn.ts, SmoothScroll integration)
-📄 Layout/Pages        : 3 (layout.tsx, page.tsx, globals.css)
-🎨 CSS Variables       : 10+ theme tokens in @theme block
-📝 Git Changes         : 1,193 insertions, 95 deletions (from create-next-app baseline)
-🌐 Supported Browsers  : Chrome, Firefox, Safari, Edge (last 2 versions)
-📱 Responsive Levels   : sm(640px) / md(768px) / lg(1024px) / xl(1280px) / 2xl(1536px)
-⚡ Build Time (dev)    : ~8-12 seconds (hot reload enabled)
-⚡ Build Time (prod)   : ~15-20 seconds (optimized .next/)
-📦 Bundle Size (gzip)  : ~120KB (estimated, fonts loaded via `next/font`)
-🔗 External CDNs       : Framer Motion, Lenis, Google Fonts (Inter)
+📦 Total Tracked Files  : 34 (Git)
+📁 Root Config Files    : 9 (.gitignore, package.json, tsconfig.json, etc.)
+📂 Source Files         : 18 (src/app + src/components + src/utils)
+🧩 React Components     : 13 total (12 sections + SmoothScroll wrapper)
+🔧 Utility Modules      : 2 (cn.ts helper + SmoothScroll integration)
+📄 App Router Files     : 3 (layout.tsx, page.tsx, globals.css)
+🎨 CSS Variables        : 6 custom tokens (background, foreground, secondary, font-sans + dark mode)
+📝 Git Changes          : 1,193 insertions, 95 deletions (vs create-next-app baseline)
+🌐 Supported Browsers   : Chrome, Firefox, Safari, Edge (last 2 versions)
+📱 Responsive Levels    : sm(640px) / md(768px) / lg(1024px) / xl(1280px) / 2xl(1536px)
+⚡ Build Time (dev)     : ~8-12 seconds (HMR enabled)
+⚡ Build Time (prod)    : ~15-20 seconds (standalone optimized)
+📦 Bundle Size (gzip)   : ~120KB (estimated, fonts optimized via next/font)
+🔗 External CDNs        : Framer Motion, Lenis, Google Fonts (Inter)
 ```
 
 ---
