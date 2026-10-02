@@ -499,3 +499,9 @@ MIT – free to use, modify, and deploy commercially.
 
 - **Email**: [girishlade111@gmail.com](mailto:girishlade111@gmail.com)
 - **GitHub Issues**: [github.com/girishlade111/-agency-portfolio/issues](https://github.com/girishlade111/-agency-portfolio/issues)
+
+---
+
+## 👤 Credits
+
+Built by Girish Lade — [ladestack.in](https://ladestack.in)
